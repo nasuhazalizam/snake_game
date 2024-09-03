@@ -3,7 +3,7 @@
 # Install pygame
 # conda install conda-forge::pygame
 # Teaching materials from https://thepythoncode.com/article/make-a-snake-game-with-pygame-in-python
-
+#nama saya lala
 import pygame
 import random
 
